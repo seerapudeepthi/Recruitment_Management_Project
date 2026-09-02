@@ -1,0 +1,225 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "HR Admin",
+      "email": "admin@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "Alex Chen",
+      "email": "alex.chen@recruitease.io",
+      "password": "techlead2026"
+    },
+    {
+      "name": "Deepthi",
+      "email": "deepthiseerapu2004@gmail.com",
+      "password": "Deepthi@2004",
+      "id": "GVWb7ns0pqo"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "1",
+      "name": "Sarah Jenkins",
+      "email": "sarah.j@example.com",
+      "phone": "+1 555-0143",
+      "role": "Frontend Developer",
+      "status": "Interview",
+      "experience": 5,
+      "isShortlisted": true
+    },
+    {
+      "id": "2",
+      "name": "Marcus Vance",
+      "email": "marcus.v@example.com",
+      "phone": "+1 555-0188",
+      "role": "UI/UX Designer",
+      "status": "Applied",
+      "experience": 2,
+      "isShortlisted": false
+    },
+    {
+      "id": "3",
+      "name": "David Miller",
+      "email": "david.m@example.com",
+      "phone": "+1 555-0199",
+      "role": "Backend Developer",
+      "status": "Hired",
+      "experience": 7,
+      "isShortlisted": true
+    },
+    {
+      "id": "4",
+      "name": "Emily Watson",
+      "email": "emily.w@example.com",
+      "phone": "+1 555-0167",
+      "role": "Frontend Developer",
+      "status": "Applied",
+      "experience": 1,
+      "isShortlisted": false
+    },
+    {
+      "id": "5",
+      "name": "James Rodriguez",
+      "email": "james.r@example.com",
+      "phone": "+1 555-0112",
+      "role": "Backend Developer",
+      "status": "Rejected",
+      "experience": 3,
+      "isShortlisted": false
+    },
+    {
+      "id": "6",
+      "name": "Aisha Patel",
+      "email": "aisha.p@example.com",
+      "phone": "+1 555-0155",
+      "role": "UI/UX Designer",
+      "status": "Interview",
+      "experience": 4,
+      "isShortlisted": true
+    },
+    {
+      "id": "7",
+      "name": "Liam O'Connor",
+      "email": "liam.oc@example.com",
+      "phone": "+1 555-0211",
+      "role": "Frontend Developer",
+      "status": "Hired",
+      "experience": 6,
+      "isShortlisted": true
+    },
+    {
+      "id": "8",
+      "name": "Chloe Dupont",
+      "email": "chloe.d@example.com",
+      "phone": "+1 555-0234",
+      "role": "UI/UX Designer",
+      "status": "Applied",
+      "experience": 3,
+      "isShortlisted": false
+    },
+    {
+      "id": "9",
+      "name": "Vikram Malhotra",
+      "email": "vikram.m@example.com",
+      "phone": "+1 555-0278",
+      "role": "Backend Developer",
+      "status": "Interview",
+      "experience": 8,
+      "isShortlisted": true
+    },
+    {
+      "id": "10",
+      "name": "Hannah Schmidt",
+      "email": "hannah.s@example.com",
+      "phone": "+1 555-0312",
+      "role": "Frontend Developer",
+      "status": "Rejected",
+      "experience": 2,
+      "isShortlisted": false
+    },
+    {
+      "id": "11",
+      "name": "Kenji Sato",
+      "email": "kenji.s@example.com",
+      "phone": "+1 555-0349",
+      "role": "Backend Developer",
+      "status": "Applied",
+      "experience": 4,
+      "isShortlisted": false
+    },
+    {
+      "id": "12",
+      "name": "Elena Rostova",
+      "email": "elena.r@example.com",
+      "phone": "+1 555-0381",
+      "role": "UI/UX Designer",
+      "status": "Interview",
+      "experience": 5,
+      "isShortlisted": true
+    },
+    {
+      "id": "13",
+      "name": "Michael Chang",
+      "email": "michael.c@example.com",
+      "phone": "+1 555-0422",
+      "role": "Frontend Developer",
+      "status": "Applied",
+      "experience": 3,
+      "isShortlisted": false
+    },
+    {
+      "id": "14",
+      "name": "Zara Al-Mansoor",
+      "email": "zara.m@example.com",
+      "phone": "+1 555-0477",
+      "role": "Backend Developer",
+      "status": "Hired",
+      "experience": 5,
+      "isShortlisted": true
+    },
+    {
+      "id": "15",
+      "name": "Daniel Kim",
+      "email": "daniel.k@example.com",
+      "phone": "+1 555-0518",
+      "role": "Frontend Developer",
+      "status": "Interview",
+      "experience": 4,
+      "isShortlisted": true
+    },
+    {
+      "id": "16",
+      "name": "Sofia Rossi",
+      "email": "sofia.r@example.com",
+      "phone": "+1 555-0563",
+      "role": "UI/UX Designer",
+      "status": "Rejected",
+      "experience": 1,
+      "isShortlisted": false
+    },
+    {
+      "id": "17",
+      "name": "Ethan Brooks",
+      "email": "ethan.b@example.com",
+      "phone": "+1 555-0604",
+      "role": "Backend Developer",
+      "status": "Applied",
+      "experience": 2,
+      "isShortlisted": false
+    },
+    {
+      "id": "18",
+      "name": "Ananya Roy",
+      "email": "ananya.r@example.com",
+      "phone": "+1 555-0649",
+      "role": "Frontend Developer",
+      "status": "Applied",
+      "experience": 3,
+      "isShortlisted": false
+    },
+    {
+      "id": "19",
+      "name": "Lucas Silva",
+      "email": "lucas.s@example.com",
+      "phone": "+1 555-0691",
+      "role": "UI/UX Designer",
+      "status": "Interview",
+      "experience": 6,
+      "isShortlisted": true
+    },
+    {
+      "id": "20",
+      "name": "Rachel Adams",
+      "email": "rachel.a@example.com",
+      "phone": "+1 555-0733",
+      "role": "Backend Developer",
+      "status": "Rejected",
+      "experience": 3,
+      "isShortlisted": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
