@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000',
+  baseURL: 'https://recruitment-management-az71.onrender.com'
 });
 
 export const getCandidates = () => API.get('/candidates');
