@@ -6,29 +6,19 @@ const Sidebar = () => {
   const linkStyle = ({ isActive }) => ({
     display: 'flex',
     alignItems: 'center',
-    gap: '12px',
-    padding: '12px 16px',
+    gap: '8px',
+    padding: '10px 14px',
     borderRadius: '6px',
     textDecoration: 'none',
     color: isActive ? '#2563eb' : '#4b5563',
     backgroundColor: isActive ? '#eff6ff' : 'transparent',
     fontWeight: isActive ? '600' : '400',
-    marginBottom: '8px'
   });
 
   return (
-    <aside style={{
-      width: '240px',
-      background: '#ffffff',
-      borderRight: '1px solid #e5e7eb',
-      padding: '24px 16px',
-      display: 'flex',
-      flexDirection: 'column'
-    }}>
-      <h2 style={{ fontSize: '18px', fontWeight: 'bold', marginBottom: '24px', color: '#2563eb' }}>
-        RecruitEase
-      </h2>
-      <nav>
+    <aside className="sidebar-container">
+      <h2 className="sidebar-brand">RecruitEase</h2>
+      <nav className="sidebar-nav">
         <NavLink to="/dashboard" style={linkStyle}>
           <LayoutDashboard size={18} /> Dashboard
         </NavLink>
